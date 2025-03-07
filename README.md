@@ -31,7 +31,7 @@ interview-java/
 │   │   ├    ├── repository
 │   │   ├    ├── service
 │   │-- test/
-│       ├── java/com/tests/      # Tests unitaires à completer
+│       ├── java/com/tests/      
 │-- README.md
 │-- pom.xml (si Maven) / build.gradle (si Gradle)
 ```
