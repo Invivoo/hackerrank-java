@@ -18,4 +18,22 @@ L'objectif de l'exercice est de manipuler les `ResponseEntity` et de retourner l
 
 
 
+## Structure du projet
 
+Le projet est organisé comme suit :
+
+```
+interview-java/
+│-- src/
+│   │-- main/
+│   │   ├── java/com/invivoo/hackerrank
+│   │   ├    ├── controller
+│   │   ├    ├── repository
+│   │   ├    ├── service
+│   │-- test/
+│       ├── java/com/tests/      # Tests unitaires à completer
+│-- README.md
+│-- pom.xml (si Maven) / build.gradle (si Gradle)
+```
+
+### Ce projet contient la solution avec les classes implémentées.
